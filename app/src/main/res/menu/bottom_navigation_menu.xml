@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/button_click"
+        android:icon="@android:drawable/presence_online"
+        android:title="@string/button_click" />
+    <item
+        android:id="@+id/motion_event"
+        android:icon="@android:drawable/presence_away"
+        android:title="@string/motion_event" />
+    <item
+        android:id="@+id/common_gestures"
+        android:icon="@android:drawable/presence_busy"
+        android:title="@string/common_gestures" />
+</menu>

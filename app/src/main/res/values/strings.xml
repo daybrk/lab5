@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="button">PRESS ME</string>
+    <string name="button_click">Button Click</string>
+    <string name="motion_event">Motion Event</string>
+    <string name="common_gestures">Common Gestures</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
